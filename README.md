@@ -8,13 +8,13 @@ I'm a Head of HR with a background spanning GCC, Global Development Centre, and 
 
 ## 🛠 What I build
 
-| Project | What it does |
-|---|---|
-| [DeltaAIQ](https://github.com/Sukeshni31/deltaiq-clean) | AI Readiness Benchmark — score any company's AI readiness by industry |
-| [AI Workforce Transition Dashboard](https://github.com/Sukeshni31/ai-workforce-dashboard) | Google Sheet-powered dashboard tracking workforce AI transition risk by employee |
-| [Shift Allowance ERP Workflow](https://github.com/Sukeshni31/ShiftAllowance-ERP-Workflow) | SAP shift allowance validation with leave reconciliation and payroll audit trail |
-| PeopleLens *(private)* | Browser-based HR intelligence platform — bench tracking, appraisal data, org search, manager dashboards |
-| Salary Revision Engine *(private)* | GenAI + Apps Script pipeline generating individualised PDF salary letters at scale |
+| Project | What it does | Live |
+|---|---|---|
+| [PeopleLens](https://github.com/Sukeshni31/PeopleLens-Demo) | Browser-based HR Intelligence Platform — bench tracking, appraisal data, org search, AI briefs | [Demo](https://sukeshni31.github.io/PeopleLens-Demo/) |
+| [DeltaAIQ](https://github.com/Sukeshni31/deltaiq-clean) | AI Readiness Benchmark — score any company's AI readiness by industry | [Live](https://deltaiq-clean.vercel.app) |
+| [AI Workforce Dashboard](https://github.com/Sukeshni31/ai-workforce-dashboard) | Google Sheet-powered dashboard tracking workforce AI transition risk | — |
+| [Shift Allowance ERP Workflow](https://github.com/Sukeshni31/ShiftAllowance-ERP-Workflow) | SAP shift allowance validation with leave reconciliation and payroll audit trail | — |
+| Salary Revision Engine *(private)* | GenAI + Apps Script pipeline generating individualised PDF salary letters at scale | — |
 
 ---
 
